@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there!
+### My name is Hector Oga, and I'm a 3rd year Electrical and Electronic Engineering student at Imperial College London!
 <!--
 **ogahector/ogahector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
