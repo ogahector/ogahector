@@ -23,9 +23,9 @@ I also speak French, Spanish, and English, and have lived in 7 different countri
 
 ## Projects (Newest first)
 
-### [Precision Impedance Analyzer (2025)](https://github.com/ogahector/complex_Z_meter)
+### [Precision Impedance Analyzer](https://github.com/ogahector/complex_Z_meter)
 
-- Sub-1% error impedance analyser ($1kHz - 2 MHz$, $10 - 1M\Omega$)
+- Sub-1% error impedance analyser ($1kHz - 2MHz$, $10 - 1M\Omega$)
 - The IQ (In-phase/Quadrature) method for precise impedance extraction, implementing my own DSP framework using phasors and complex numbers
 - PCB topology and design practices, minimizing parasitics to preserve signal integrity
 - Firmware: STM32 bare-metal DAC/ADC with IQ demodulation
